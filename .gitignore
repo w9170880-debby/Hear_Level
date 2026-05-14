@@ -15,3 +15,6 @@
 **/ffmpeg.exe
 **/*.mp3
 **/*.pt
+
+uploads/
+java/uploads/
